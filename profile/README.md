@@ -1,6 +1,6 @@
-# geg tools
+# GEG TOOLS
 
-- Conjunto de comandos CLI e bibliotecas pessoas
+- Conjunto de comandos CLI e bibliotecas pessoais
 
 ## Ferramentas
 
